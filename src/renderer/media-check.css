@@ -1,0 +1,10 @@
+.media-workspace { margin-top: 20px; }
+.media-check-path { overflow-wrap: anywhere; word-break: break-word; }
+.media-check-item h3 { overflow-wrap: anywhere; }
+.recovery-artifact { overflow-wrap: anywhere; }
+.artifact-relink { margin: 10px 0; padding: 10px; border: 1px solid #303542; border-radius: 7px; }
+.artifact-preview { display: block; max-width: 240px; max-height: 220px; margin: 8px 0; }
+.artifact-relink audio { display: block; max-width: 100%; margin: 8px 0; }
+.long-text-workspace { margin-top: 16px; border-top: 1px solid #303542; padding-top: 12px; }
+.text-part { margin: 8px 0; padding: 8px; border: 1px solid #303542; border-radius: 7px; }
+.text-part pre { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 240px; overflow-y: auto; }
